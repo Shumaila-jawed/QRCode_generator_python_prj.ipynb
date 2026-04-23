@@ -1,2 +1,2 @@
-# QRCode_generator_python.ipynb
+# QRCode_generator_python.py
 QRcode generator python project , Any URL link you give this will generate a QR code for you link.... 
